@@ -4,7 +4,7 @@ A short description of your project. Example:
 
 This is a simple Python project that demonstrates basic programming concepts such as variables, loops, functions, and file handling.
 
-📌 Features
+📌 Features !
 
 Easy to understand (beginner-friendly)
 
