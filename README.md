@@ -54,13 +54,6 @@ Welcome to the program!
 Please enter your name: Alice
 Hello, Alice!
 
-📂 Project Structure
-project-name/
-│
-├── main.py          # Entry point of the program
-├── utils.py         # Helper functions (if any)
-├── README.md        # Documentation
-└── requirements.txt # Dependencies (if needed)
 
 🎯 Purpose (for interview)
 
